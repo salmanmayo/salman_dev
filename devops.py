@@ -1,2 +1,3 @@
 print("Hello Salman Welcome to the devops Tutorials")
-Print("Salman")
+print("Salman")
+print("Salman Mumtaz Mayo")
